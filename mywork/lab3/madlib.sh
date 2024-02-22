@@ -16,6 +16,6 @@ echo "Once upon a time, there lived a $ADJ1 princess. She was very happy
 because she had a $NOUN1. Soon came her birthday, where she ate the chocolate 
 cake $ADV1. She was surrounded by all her friends and was having so much fun!
 Until a rabbit came and started to $VERB1. The $ADJ1 princess now became $ADJ2. 
-She didn't know what to do! She looked to her side and picked up a $NOUN2. 
+She didn't know what to do! She looked around her and picked up a $NOUN2. 
 The princess started to run with the $NOUN2 $ADV2. To her suprise, the rabbit started 
 to $VERB2 in revenge right back at her!"
