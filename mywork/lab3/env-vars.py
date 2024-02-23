@@ -3,7 +3,7 @@
 import os
 
 # Prompt User for Input
-# Store in 4 Variables 
+# Store in 3 Variables 
 FAV_SPORT = input('What is your favorite sport? ')
 FAV_FOOD = input('What is your favorite food? ' )
 FAV_GENRE = input('What is your favorite genre of music? ')
