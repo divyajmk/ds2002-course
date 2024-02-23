@@ -1,5 +1,6 @@
 #!/bin/bash 
 
+
 clear
 echo "Hello! Let's build a mad-lib!"
 
