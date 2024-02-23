@@ -13,7 +13,7 @@ read -p "6. Please give me another noun: " NOUN2
 read -p "7. Please give me another adverb: " ADV2
 read -p "8. Please give me another verb: " VERB2
 
-echo "Once upon a time, there lived a $ADJ1 princess. She was very happy 
+echo "Once upon a time, there lived a $ADJ1 princess. She was $ADJ1 
 because she had a $NOUN1. Soon came her birthday, where she ate the chocolate 
 cake $ADV1. She was surrounded by all her friends and was having so much fun!
 Until a rabbit came and started to $VERB1. The $ADJ1 princess now became $ADJ2. 
