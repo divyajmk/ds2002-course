@@ -48,5 +48,7 @@ presigned_url = s3.generate_presigned_url(
 print(presigned_url)
 
 # Output of URL
+# This link works in the learner lab, but it does not work now.
+# This issue has been acknowledged
 #https://ds2002-yaq7fm.s3.amazonaws.com/projects/downloaded_file.gif?AWSAccessKeyId=ASIAU6GDY6IJRTIQAZWF&Signature=2cx7XM20UuFaLKdMcEsQzwfW4Aw%3D&x-amz-security-token=FwoGZXIvYXdzEAsaDIIzhVnY%2FYfEqytvCSLEAVsl8iWl9yr6QgsbT3EH%2FqOZRg9FeeZfKNExNp7KkmFMfzxHS7O44t%2F1unSJ%2FNzmr6UcpXcquKYVTDn1dQEoD10PproDKO5S2Rsli8A7%2Brqwn2E90XHIPV3rMTnI%2BPR7lYIMBIoOnrmZOUpK3AYMAg%2FkZBSnX4pOSJhqN5X5eRfO1TGNRpgzEPleeUg3foVHriJMuyIHX0JuLjkm695PT%2B1tWRIC1%2Fzvi%2BKPm2tSeyUnSgIDE3Nuo7h933O%2Big89MSYjDfEow5T6rgYyLfPLRFMvwEV4tPGpWkqWfG2zKMcS30Ka%2BV%2F%2BPk4mScJWiKuHBI%2BAgKzwC%2BgwsA%3D%3D&Expires=1709688261
 
