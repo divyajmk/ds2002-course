@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 set -e
 
@@ -8,6 +8,3 @@ if [ -z "$1" ]; then
 fi
 
 /usr/bin/tr '\t' ',' < $1 > $2
-
-
-
